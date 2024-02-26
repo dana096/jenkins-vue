@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "dana096-jenkins-vue",	  
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
